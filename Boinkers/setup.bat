@@ -1,5 +1,5 @@
 @echo off
-title name Bot
+title Boinkers Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    name BOT SETUP AND RUN SCRIPT
+echo    Boinkers BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -97,7 +97,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-node bot
+node MeoMunDep
 pause
 goto MENU
 
