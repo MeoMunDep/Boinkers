@@ -1,6 +1,9 @@
 {
-  "limit": 100,
-  "countdown": 300,
-  "country_time": "en-US",
-  "delayEachAccount": [5, 8]
+  "timeZone": "en-US",
+  "skipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 100,
+  "doTasks": true,
+  "referralCode": ""
 }
