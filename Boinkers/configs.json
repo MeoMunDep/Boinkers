@@ -1,9 +1,15 @@
 {
-  "timeZone": "en-US",
-  "skipInvalidProxy": false,
-  "delayEachAccount": [5, 8],
-  "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 100,
+  "doSpins": true,
   "doTasks": true,
-  "referralCode": ""
+  "doRaffles": true,
+  "doUpgrades": true,
+  "boostShits": true,
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "delayEachAccount": [1, 1],
+  "proxyRotationInterval": 2,
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "referralCode": "boink6713068747"
 }
