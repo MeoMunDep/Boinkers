@@ -93,17 +93,47 @@ colorama
 
 ## Run the Bot
 
-### Windows / macOS / Linux
+You can run the bot using the script below depending on your operating system:
+
+### 🪟 Windows:
+
+Double-click the `.bat` file or run it in terminal:
+
+```bash
+run.bat
+```
+
+Or manually run the Python file:
 
 ```bash
 python meomundep.py
 ```
 
-Or, if you’re using Python 3:
+---
+
+### 🐧 Linux / macOS:
+
+First, give execute permission to the shell script:
+
+```bash
+chmod +x run.sh
+```
+
+Then run it:
+
+```bash
+./run.sh
+```
+
+Or run manually with:
 
 ```bash
 python3 meomundep.py
 ```
+
+
+💡 Make sure you have Python 3.8+ and all dependencies installed (`pip install -r requirements.txt`).
+
 
 ---
 
