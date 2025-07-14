@@ -140,7 +140,7 @@ python3 meomundep.py
 ## Contact & Support
 
 * 🔗 Referral link: [boinker\_bot](https://t.me/boinker_bot/boinkapp?startapp=boink6713068747)
-* 🛒 Buy Telegram accounts: [here](https://t.me/KeoAirDropFreeNe/312/27801) or [GitHub](https://github.com/MeoMunDep/MeoMunDep)
+* 🛒 Buy me some milk: [here](https://t.me/KeoAirDropFreeNe/312/27801) or [GitHub](https://github.com/MeoMunDep/MeoMunDep)
 * 💬 Telegram support:
 
   * [Chat](https://t.me/MeoMunDep)
