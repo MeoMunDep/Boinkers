@@ -1,9 +1,8 @@
 @echo off
-title 🚀 MeoMunDep Bot Runner
-echo Starting MeoMunDep Bot...
-python meomundep.py
-pause
->>>>>>> 6fe90aaea8e9f25e5174f389dcb461437151de5e
+title 🚀 MeoMunDep Boinkers Bot
+echo ===============================
+echo Starting MeoMunDep Boinkers Bot
+echo ===============================
 
 if not exist requirements.txt (
     echo [ERROR] requirements.txt not found!
