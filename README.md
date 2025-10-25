@@ -33,9 +33,10 @@ Follow this guide to install and run the bot correctly. Designed for quick setup
   "skipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "proxyRotationInterval": 2,
-  "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 10,
-  "referralCode": "boink6713068747"
+  "timeToRestartAllAccounts": 86400,
+  "howManyAccountsRunInOneTime": 1,
+  "upgradeEquipments": true,
+  "referralCode": ""
 }
 ```
 
@@ -139,7 +140,7 @@ python3 meomundep.py
 
 ## Contact & Support
 
-* 🔗 Referral link: [boinker\_bot](https://t.me/boinker_bot/boinkapp?startapp=boink6713068747)
+* 🔗 Referral link: [boinkers_bot](https://t.me/boinker_bot/boinkapp?startapp=boink6713068747)
 * 🛒 Buy me some milk: [here](https://t.me/KeoAirDropFreeNe/312/27801) or [GitHub](https://github.com/MeoMunDep/MeoMunDep)
 * 💬 Telegram support:
 
