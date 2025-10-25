@@ -1,10 +1,6 @@
 # 🤖 Bot Setup Instructions by **@MeoMunDep**
 
 <p align="center">
-  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true" width="600" />
-</p>
-
-<p align="center">
   <b>Follow this guide to install and run the bot correctly. Designed for quick setup ⚡</b>
 </p>
 
