@@ -1,10 +1,16 @@
-# 🚀 Bot Setup Instructions
+# 🤖 Bot Setup Instructions by **@MeoMunDep**
 
-Follow this guide to install and run the bot correctly. Designed for quick setup.
+<p align="center">
+  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true" width="600" />
+</p>
+
+<p align="center">
+  <b>Follow this guide to install and run the bot correctly. Designed for quick setup ⚡</b>
+</p>
 
 ---
 
-## Table of Contents
+## 🧭 Table of Contents
 
 1. [Configuration Files](#configuration-files)
 
@@ -18,7 +24,7 @@ Follow this guide to install and run the bot correctly. Designed for quick setup
 
 ---
 
-## Configuration Files
+## ⚙️ Configuration Files
 
 ### 1. `configs.json` – Bot Settings
 
@@ -40,9 +46,12 @@ Follow this guide to install and run the bot correctly. Designed for quick setup
 }
 ```
 
+---
+
 ### 2. `datas.txt` – Telegram Bot User Data
 
-Get the `query_id/user` values from this [link](https://t.me/KeoAirDropFreeNee/1586).
+Get your `query_id/user` from this [link](https://t.me/KeoAirDropFreeNee/1586).
+
 Format (one per line):
 
 ```
@@ -50,32 +59,40 @@ query_id.../user...
 query_id.../user...
 ```
 
+---
+
 ### 3. `wallets.txt` – EVM Wallet Addresses
 
 Generate wallets using this [tool](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop).
-Format (one address per line):
+
+Format:
 
 ```
 0xabc...123
 0xdef...456
 ```
 
-### 4. `proxies.txt` – (Optional)
+---
 
-Supports HTTP/SOCKS, with or without auth:
+### 4. `proxies.txt` – Optional Proxy List
+
+Supports both HTTP/SOCKS with or without authentication.
+
+Example formats:
 
 ```
 http://host:port  
 socks5://user:pass@host:port
 ```
 
-Each line corresponds to the respective account line. Leave empty if not using proxy.
+Each line corresponds to each account in order.
+Leave blank if you don’t use proxy.
 
 ---
 
-## Install Requirements
+## 🧩 Install Requirements
 
-Use the following command:
+Run this command to install all dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -92,19 +109,17 @@ colorama
 
 ---
 
-## Run the Bot
+## 🖥️ Run the Bot
 
-You can run the bot using the script below depending on your operating system:
+### 🪟 Windows
 
-### 🪟 Windows:
-
-Double-click the `.bat` file or run it in terminal:
+Double-click `run.bat` or run via terminal:
 
 ```bash
 run.bat
 ```
 
-Or manually run the Python file:
+Or manually:
 
 ```bash
 python meomundep.py
@@ -112,9 +127,9 @@ python meomundep.py
 
 ---
 
-### 🐧 Linux / macOS:
+### 🐧 Linux / macOS
 
-First, give execute permission to the shell script:
+Make the file executable first:
 
 ```bash
 chmod +x run.sh
@@ -126,25 +141,34 @@ Then run it:
 ./run.sh
 ```
 
-Or run manually with:
+Or directly:
 
 ```bash
 python3 meomundep.py
 ```
 
-
-💡 Make sure you have Python 3.8+ and all dependencies installed (`pip install -r requirements.txt`).
-
+> 💡 Ensure you have **Python 3.8+** and dependencies installed.
 
 ---
 
-## Contact & Support
+## 💬 Contact & Support
 
-* 🔗 Referral link: [boinkers_bot](https://t.me/boinker_bot/boinkapp?startapp=boink6713068747)
-* 🛒 Buy me some milk: [here](https://t.me/KeoAirDropFreeNe/312/27801) or [GitHub](https://github.com/MeoMunDep/MeoMunDep)
-* 💬 Telegram support:
+**Referral Link:**
+🔗 [boinkers_bot](https://t.me/boinker_bot/boinkapp?startapp=boink6713068747)
 
-  * [Chat](https://t.me/MeoMunDep)
-  * [Channel](https://t.me/KeoAirDropFreeNee)
-  * [Group](https://t.me/KeoAirDropFreeNe)
+**Support Me:**
+🛒 [Buy me some milk](https://t.me/KeoAirDropFreeNe/312/27801)
+🐙 [GitHub](https://github.com/MeoMunDep/MeoMunDep)
+
+**Community & Help:**
+💭 [Chat](https://t.me/MeoMunDep)
+📢 [Channel](https://t.me/KeoAirDropFreeNee)
+👥 [Group](https://t.me/KeoAirDropFreeNe)
+
+---
+
+<p align="center">
+  <sub>✨ Created by <b>@MeoMunDep</b> | Automation Tools for Airdrop Farmers</sub>
+</p>
+
 
