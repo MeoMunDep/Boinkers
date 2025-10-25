@@ -13,11 +13,6 @@
 ## 🧭 Table of Contents
 
 1. [Configuration Files](#configuration-files)
-
-   * [`configs.json`](#1-configsjson)
-   * [`datas.txt`](#2-datastxt)
-   * [`wallets.txt`](#3-walletstxt)
-   * [`proxies.txt`](#4-proxiestxt)
 2. [Install Requirements](#install-requirements)
 3. [Run the Bot](#run-the-bot)
 4. [Contact & Support](#contact--support)
@@ -26,7 +21,8 @@
 
 ## ⚙️ Configuration Files
 
-### 1. `configs.json` – Bot Settings
+<details>
+<summary><b>1️⃣ configs.json – Bot Settings</b></summary>
 
 ```json
 {
@@ -46,9 +42,12 @@
 }
 ```
 
+</details>
+
 ---
 
-### 2. `datas.txt` – Telegram Bot User Data
+<details>
+<summary><b>2️⃣ datas.txt – Telegram Bot User Data</b></summary>
 
 Get your `query_id/user` from this [link](https://t.me/KeoAirDropFreeNee/1586).
 
@@ -59,9 +58,12 @@ query_id.../user...
 query_id.../user...
 ```
 
+</details>
+
 ---
 
-### 3. `wallets.txt` – EVM Wallet Addresses
+<details>
+<summary><b>3️⃣ wallets.txt – EVM Wallet Addresses</b></summary>
 
 Generate wallets using this [tool](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop).
 
@@ -72,13 +74,16 @@ Format:
 0xdef...456
 ```
 
+</details>
+
 ---
 
-### 4. `proxies.txt` – Optional Proxy List
+<details>
+<summary><b>4️⃣ proxies.txt – (Optional) Proxy List</b></summary>
 
 Supports both HTTP/SOCKS with or without authentication.
 
-Example formats:
+Examples:
 
 ```
 http://host:port  
@@ -88,9 +93,14 @@ socks5://user:pass@host:port
 Each line corresponds to each account in order.
 Leave blank if you don’t use proxy.
 
+</details>
+
 ---
 
 ## 🧩 Install Requirements
+
+<details>
+<summary><b>Click to view installation guide</b></summary>
 
 Run this command to install all dependencies:
 
@@ -107,13 +117,16 @@ cloudscraper
 colorama
 ```
 
+</details>
+
 ---
 
 ## 🖥️ Run the Bot
 
-### 🪟 Windows
+<details>
+<summary><b>🪟 Windows Instructions</b></summary>
 
-Double-click `run.bat` or run via terminal:
+Double-click the `.bat` file or run via terminal:
 
 ```bash
 run.bat
@@ -125,11 +138,14 @@ Or manually:
 python meomundep.py
 ```
 
+</details>
+
 ---
 
-### 🐧 Linux / macOS
+<details>
+<summary><b>🐧 Linux / macOS Instructions</b></summary>
 
-Make the file executable first:
+Make the file executable:
 
 ```bash
 chmod +x run.sh
@@ -149,9 +165,14 @@ python3 meomundep.py
 
 > 💡 Ensure you have **Python 3.8+** and dependencies installed.
 
+</details>
+
 ---
 
 ## 💬 Contact & Support
+
+<details>
+<summary><b>Click to expand contact information</b></summary>
 
 **Referral Link:**
 🔗 [boinkers_bot](https://t.me/boinker_bot/boinkapp?startapp=boink6713068747)
@@ -165,10 +186,11 @@ python3 meomundep.py
 📢 [Channel](https://t.me/KeoAirDropFreeNee)
 👥 [Group](https://t.me/KeoAirDropFreeNe)
 
+</details>
+
 ---
 
 <p align="center">
   <sub>✨ Created by <b>@MeoMunDep</b> | Automation Tools for Airdrop Farmers</sub>
 </p>
-
 
