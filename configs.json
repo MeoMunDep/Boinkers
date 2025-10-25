@@ -8,7 +8,8 @@
   "skipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "proxyRotationInterval": 2,
-  "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 10,
-  "referralCode": "boink6713068747"
+  "timeToRestartAllAccounts": 86400,
+  "howManyAccountsRunInOneTime": 1,
+  "upgradeEquipments": true,
+  "referralCode": ""
 }
